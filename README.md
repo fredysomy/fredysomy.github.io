@@ -6,11 +6,6 @@
 <a href="https://twitter.com/FredySomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaGWjOH7kQ2Vpv34G4VtDKSWVwkuqiPxV6Q&usqp=CAU"></a>
 <a href="https://fredysomy.hashnode.dev"><img height="32px" width="32px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compressUQ1nKYMaA=w384-h384"></a>
 
-
-I am a Full stack developer , Uses Python and Javascript.<br>
-
-Javascript is ❤️.<br>
-
 ### Some of my awesome projects.
 
 
