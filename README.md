@@ -1,4 +1,4 @@
-# Hi there 🙋🏻‍♂️ 
+# Hi there .
 ## Myself Fredy Somy.
 
 <a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgajA05XF6eHfhMRKT9EunERUm82WuKMe8MQ&usqp=CAU"></a>
